@@ -1,0 +1,160 @@
+body {
+    background-color: #FFFFFF;
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.nav-item {
+    font-weight: 700;
+}
+
+.jumbotron {
+    padding-top: 6.9rem;
+}
+
+.p-jumbotron {
+    color: #394A51;
+}
+
+.jumbo-bg {
+    background-image: url(assets/Rectangle\ 2.svg);
+    height: 450px;
+}
+
+.learn-more {
+    width: 166px;
+    height: 47px;
+    color: #FFFFFF;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    background-color: #B55400;
+    border: none;
+}
+
+.learn-more a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.gambar-jumbo {
+    width: 740px;
+    height: 550px;
+}
+
+.signature {
+    padding-top: 5rem;
+    margin-bottom: 7rem;
+}
+
+.signature-tittle {
+    font-family: 'Sacramento';
+    color: black;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.learn-signature {
+    margin-left: 5.8rem;
+    width: 166px;
+    height: 47px;
+    color: #333;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    background-color: #FAECD6;
+    border: none;
+}
+
+.about {
+    padding-top: 9rem;
+    background-image: url(assets/unsplash_3b2tADGAWnU.svg);
+    background-size: cover;
+}
+
+.about-jumbotron {
+    height: 500px;
+    width: 760px;
+}
+
+.logo-about {
+    margin-top: 10rem;
+    margin-left: 2.3rem;
+}
+
+.read-more {
+    width: 166px;
+    height: 47px;
+    color: #FFFFFF;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    background-color: #AA8B56;
+    border: none;
+    margin-left: 2.3rem;
+}
+
+.galery {
+    padding-top: 5rem;
+    background-image: url(assets/bg-galery.svg);
+}
+
+.kompilasi {
+    padding-top: 9rem;
+    background-image: url(assets/poto-kompilasi.svg);
+}
+
+.contact {
+    padding-top: 3rem;
+    background-color: #393E46;
+}
+
+.p-contact {
+    color: #B2B2B2;
+    text-decoration: none;
+    font-family: 'PT Sans Caption';
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.p-contact:hover {
+    color: #ffffff;
+}
+
+.lain-1 {
+    font-size: 1.5rem;
+    color: #FFFFFF;
+}
+
+.lain {
+    text-align: center;
+    font-size: 1rem;
+    color: #FFFFFF;
+}
+
+.col-4 a {
+    display: flex;
+    justify-content: center;
+}
+
+.col-4 p {
+    color: #B2B2B2;
+    padding-top: 1rem;
+}
+
+.text-center {
+    color: #B2B2B2;
+    padding-top: 4rem;
+}
+
+.text-center:hover {
+    color: #ffffff;
+}
